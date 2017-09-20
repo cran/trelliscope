@@ -1,8 +1,8 @@
 Package: trelliscope
 Type: Package
 Title: Create and Navigate Large Multi-Panel Visual Displays
-Version: 0.9.7
-Date: 2016-09-25
+Version: 0.9.8
+Date: 2017-09-20
 Authors@R: c(person("Ryan", "Hafen", email = "rhafen@gmail.com", role = c("aut", "cre")),
     person("Jeremiah", "Rounds", role = "ctb"),
     person("Barret", "Schloerke", role = "ctb"),
@@ -31,11 +31,11 @@ Imports: lattice (>= 0.20-23), ggplot2, data.table, base64enc, shiny
         png, jpeg, DistributionUtils, htmltools, curl, rsconnect
 Suggests: Cairo, dplyr, testthat (>= 0.11.0), roxygen2 (>= 5.0.1),
         scagnostics, housingData
-RoxygenNote: 5.0.1
-Packaged: 2016-10-02 23:57:35 UTC; hafen
+RoxygenNote: 6.0.1
+Packaged: 2017-09-20 15:16:36 UTC; hafen
 Author: Ryan Hafen [aut, cre],
   Jeremiah Rounds [ctb],
   Barret Schloerke [ctb],
   Landon Sego [ctb]
 Repository: CRAN
-Date/Publication: 2016-10-03 08:17:52
+Date/Publication: 2017-09-20 16:13:35 UTC
